@@ -1,0 +1,14 @@
+centre_frequency in hertz =1350000000.0
+bandwidth in hertz =10000000.0
+system temperature in kelvin =23.0
+HPBW Rx in deg =0.942557357663
+Gain Rx in dBi =43.401446639
+HPBW Tx in deg =1.27245243284
+Gain Tx in dBi =40.7947712691
+PRF in Hz=75000.0
+Pulse width in seconds =5e-06
+transmitted power in watts =2000000.0
+Number of subpulses =50
+Subpulse width =1e-07
+Monostatic range resolution =0.0149896229
+Monostatic Doppler velocity resolution =22206.8487407
