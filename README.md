@@ -15,7 +15,7 @@ Python libraries required:
 4. matplotlib + basemap
 5. pandas
 6. datetime
-7. ytz
+7. pytz
 8. aniso8601
 
 ## Authors
