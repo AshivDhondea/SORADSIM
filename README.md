@@ -9,14 +9,14 @@ I developed SORADSIM while working in the [Radar Remote Sensing Group](http://ww
 ### Prerequisites
 SORADSIM was developed in Python 2.7, but it will run in Python 3 with minimal effort.
 Python libraries required:
-| numpy |
-| math |
-| scipy |
-| matplotlib + basemap|
-| pandas|
-| datetime |
-| pytz |
-| aniso8601 |
+1. numpy
+2. math
+3. scipy
+4. matplotlib + basemap
+5. pandas
+6. datetime
+7. ytz
+8. aniso8601
 
 ## Authors
 
